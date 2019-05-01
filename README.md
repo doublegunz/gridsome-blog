@@ -1,4 +1,7 @@
 # Default starter for Gridsome
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e951c42e-7698-4490-991c-b53b8ca659da/deploy-status)](https://app.netlify.com/sites/naughty-yalow-0fc8b8/deploys)
+
+> Repo buat ngulik Gridsome
 
 ### 1. Install Gridsome CLI tool if you don't have
 
